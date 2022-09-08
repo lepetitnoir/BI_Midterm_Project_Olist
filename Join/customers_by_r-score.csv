@@ -1,0 +1,6 @@
+count(distinct(customer_unique_id)),review_score
+55378,5
+18784,4
+8047,3
+3058,2
+10252,1
