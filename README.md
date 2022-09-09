@@ -1,35 +1,19 @@
 # BI_Midterm_Project_Olist
 
-1) Members of the group: Herranz, Pablo; Jost, Paul-Moritz
+1) 
 
-2) Goal of the project (BI project): Customer, Seller, and Order Analysis
+2) Members of the group: Herranz, Pablo; Jost, Paul-Moritz
 
-3) Brief description of the data set: Number of Rows: 112650, Number of Columns: 
+3) Goal of the project (BI project): Explain changes in growth rate of olist
 
-4) Problems: Couldn't loas csv, incompatability with ASCII, messy columns
+4) Brief description of the data set: Number of Rows: 112650, Number of Tables: 14
 
-5) Join customer, seller, order create view csv
+5) Monday: Exploring db using SQL
 
-6) Build a assumption for chart you need
+6) Tuesday: Exporting Data with Join Function
 
-7) Customer City can be ranked by price (table 'order items')
+7) Wednesday: Cleaning exported Data with Pandas
 
-8) Customer State can be ranked by price (table 'order items')
+8) Thursday: Create Visualisation with Tableu
 
-9) Price: A) Individual Price (table 'order items'), B) Final Price (table 'order customer items paid'), 
-
-C) Categorical Price (table 'prod cat price')
-
-10) Best Seller: Most Order Id's per Seller Id
-
-11) Best State: Final price per state
-
-12) Best City: Final price per city
-
-11) Best Product Categories: Most Order Id's per Product Category
-
-13) Best Seller per State per Year?
-
-14) Best Product Categories per State per Year?
-
-15) Total Sales per State per Year?
+9) Problems: Couldn't load all joined csv's into data frame
